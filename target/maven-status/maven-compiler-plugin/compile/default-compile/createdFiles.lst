@@ -3,8 +3,6 @@ com\isobar\controller\BandController.class
 com\isobar\services\BandServices.class
 com\isobar\configuration\InitSpring.class
 com\isobar\configuration\InitSpring$1.class
-com\isobar\model\Track.class
 com\isobar\model\Band.class
 com\isobar\configuration\DIConfig.class
-com\isobar\model\Album.class
 com\isobar\data\BandPersistense.class
